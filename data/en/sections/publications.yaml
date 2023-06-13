@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+publications:
+  - title: Terraform Provider Validation
+    publishedIn:
+      name: Medium
+      date: Oct 2022
+      url: https://medium.com
+    authors:
+    - name: Traci Kamp
+    paper:
+      summary: An overview of how to use the provider and why it was necessary to build.
+      url: https://tracikamp.medium.com/terraform-provider-validation-50bef0508a90
+    tags: [terraform]

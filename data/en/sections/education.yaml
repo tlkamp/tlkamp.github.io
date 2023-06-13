@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html 
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+degrees:
+  - name: B.A. in Computer Science
+    timeframe: 2010-2015
+    institution:
+      name: Blackburn College
+      url: "https://blackburn.edu"
+    takenCourses:
+      showGrades: false
+      collapseAfter: 3
+      courses:
+      - name: Data Structures and Algorithms
+      - name: Software Engineering
+      - name: Operating Systems
+      - name: Networking
+      - name: Information Security

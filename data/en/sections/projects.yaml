@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+# your projects
+projects:
+  - name: Terraform Provider Validation
+    role: Lead Engineer
+    url: "https://www.github.com/tlkamp/terraform-provider-validation"
+    summary: |
+      A pure Terraform provider that allows module developers to perform validations across multiple inputs and contexts.
+    tags: [hobby, terraform, golang]
+
+  - name: mockbob
+    role: Lead Engineer
+    url: "https://github.com/tlkamp/mockbob"
+    summary: |
+      A Golang CLI that makes input text `lOoK lIkE tHiS`
+    tags: [hobby, golang]
+
+  - name: litter-exporter
+    role: Lead Engineer
+    url: "https://github.com/tlkamp/litter-exporter"
+    summary: A Prometheus exporter for the Litter Robot 3 connect
+    tags: [hobby, fun, golang, prometheus, prometheus-exporter, docker]

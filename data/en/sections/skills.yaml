@@ -1,0 +1,35 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+  - name: Kubernetes
+    summary: I have experience as a Kubernetes user and Administrator.
+    logo: 'images/sections/skills/kubernetes.png'
+
+  - name: Go Development
+    summary: Go is my primary development language. I write beautiful, scalable, testable and maintainable code.
+    logo: 'images/sections/skills/go.png'
+
+  - name: Cloud Computing
+    summary: Highly experienced with AWS and GCP
+    logo: 'images/sections/skills/cloud.png'
+
+  - name: Linux
+    summary: Linux is my main operating system and I have been using it for production environments throughout my career.
+    logo: 'images/sections/skills/linux.png'
+
+  - name: Git
+    summary: I have used Git daily as my primary source control option since 2016. I am experienced with GitHub and GitLab.
+    logo: 'images/sections/skills/git.png'
+
+  - name: Terraform
+    logo: 'images/sections/skills/terraform.png'
+    summary: |
+      I have worked with Terraform daily since 2018. I have written Terraform providers, production infrastructure as code, and teach courses on 
+      Terraform development.
+
+      I chair the Terraform Language Committee at Splunk, where I lead a team of other engineers through writing and maintaining the company style guide.

@@ -1,0 +1,44 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+designation: Senior Software Engineer
+company:
+  name: Splunk, Inc
+  url: https://www.splunk.com
+
+summary: |
+  I am a passionate software engineer with 8 years of industry experience. I mostly build backend services for the cloud, on AWS or GCP.
+
+  Sometimes I build silly things like `mockbob`, or work on frontend projects when I want something different.
+
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "traci.kamp@gmail.com"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/tlkamp"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/tracikamp/"
+  - name: Medium
+    icon: "fab fa-medium"
+    url: "https://medium.com/@tracikamp"
+
+badges:
+  - type: soft-skill-indicator
+    name: Hashicorp Terraform
+    percentage: 100
+    color: '#844fba'
+  - type: soft-skill-indicator
+    name: AWS
+    percentage: 100
+    color: yellow
+  - type: soft-skill-indicator
+    name: Golang
+    percentage: 85
+    color: '#007D9C'

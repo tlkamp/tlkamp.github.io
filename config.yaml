@@ -1,0 +1,43 @@
+baseURL: https://tlkamp.github.io
+languageCode: en-us
+title: Traci Kamp
+theme: toha
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: false
+
+params:
+  background: 'images/background.jpg'
+  topNavbar:
+    maxVisibleSections: 5
+
+  enableBlogPost: false
+  enableTOC: true
+  showFlags: false
+
+  darkmode:
+    enable: true
+    default: dark
+    provider: darkreader
+
+  footer:
+    enable: false
+
+  newsletter:
+    enable: false
