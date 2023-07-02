@@ -37,4 +37,9 @@ why there are a lot of those kinds of books.
 - The Bogleheads' Guide to Investing 
 - The Bogleheads' Guide to the Three Fund Portfolio
 
+---
+
+**Will Larson**
+- Staff Engineer: Leadership Beyond the Management Track
+
 {{< /note >}}
