@@ -32,19 +32,34 @@ experiences:
       location: Tempe AZ
     positions:
     - designation: Technology Engineer - SRE
-      start: January 2020
+      start: Jan 2020
       end: Apr 2021
       responsibilities:
       - Implemented an enterprise monitoring and alerting system that reduced incident detection and remediation from two hours to ten minutes
       - Design and execute chaos attacks against internal platforms to reproduce and correct production instability
       - Participated and executed tactical engagements with product teams to improve their product stability and quality
-    - designation: Software Developer
-      start: May 2015
-      end: January 2020
+
+    - designation: Software Developer - Cloud Infrastructure
+      start: Jun 2018
+      end: Dec 2019
       responsibilities:
         - Define, deploy, administer and maintain cloud infrastructure as code with Terraform
         - Implement zero-downtime deployments for networking infrastructure to eliminate service disruption
         - Build and administer nine Kubernetes clusters (EKS) and cluster-critical software
+
+    - designation: Software Developer - Hadoop Platform
+      start: May 2017
+      end: Jun 2018
+      responsiblities:
+        - Automated Hadoop cluster upgrades with Ansible, reducing total upgrade time from two days to 30 minutes
+        - Coached developers through debugging distributed applications and improving performance
+        - Developed quality-of-life improvements to make the platform easier to use for consumers
+
+    - designation: Software Developer - Enterprise Applications
+      start: May 2015
+      end: May 2017
+      responsibilities:
         - Maintainted a commercial vehicle quoting application used by 19,000 State Farm agents nation-wide
+        - Modernized a legacy technology stack to transform a manual, paper-based process into a well-rounded digital experience
         - Increased development throughput and quality through CI/CD adoption, modern development practices and tooling
 
