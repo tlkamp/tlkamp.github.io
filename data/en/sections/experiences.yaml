@@ -13,19 +13,21 @@ experiences:
       location: Remote - AZ
     positions:
     - designation: Senior Software Engineer
-      start: Apr 2023
-      responsibilities:
-        - Build highly efficient, scalable services that automate the infrastructure lifecycle for Splunk Cloud
-        - Chair the Terraform Language Committee, where I lead a team of other engineers through developing and maintaining the company style guide.
-        - Mentor junior engineers
-
-    - designation: Site Reliability Engineer
       start: Apr 2021
-      end: May 2023
       responsibilities:
-        - Write high performance sevices for infrastructure provisioning in Golang
-        - Define and build infrastructure as code across multiple cloud providers in support of Splunk Cloud customers
-
+        - | 
+          Define, build and maintain customer infrastructure across AWS and GCP with Terraform for the Splunk
+          Enterprise Cloud offering.
+        - |
+          Designed and developed highly efficient, scalable and resilient cloud provisioning services used by
+          customers to administer and maintain their Splunk Enterprise Cloud deployment.
+        - |
+          Developed and deployed in-demand infrastructure-based features across multiple cloud providers, including
+          [Enterprise Managed Encryption Keys.](https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/EnableEMEK)
+        - |
+          Founded and chair the Terraform Language Committee, where I lead a team of other engineers through developing and
+          maintaining the company style guide.
+ 
   - company:
       name: State Farm
       url: "https://www.statefarm.com"
@@ -35,25 +37,30 @@ experiences:
       start: Jan 2020
       end: Apr 2021
       responsibilities:
-      - Implemented an enterprise monitoring and alerting system that reduced incident detection and remediation from two hours to ten minutes
-      - Design and execute chaos attacks against internal platforms to reproduce and correct production instability
-      - Participated and executed tactical engagements with product teams to improve their product stability and quality
+      - |
+        Implemented an enterprise-wide monitoring and alerting platform for critical business applications that reduced incident
+        detection and recovery time from two hours to ten minutes.
+      - | 
+        Created and advocated for an internal observability framework, LATTES, to create a common and standard dashboarding 
+        experience for internal product teams to better monitor the SLOs and SLIs of the services they own and support.
+      - |
+        Designed and executed chaos attacks against internal services to reproduce and correct production instability.
 
     - designation: Software Developer - Cloud Infrastructure
       start: Jun 2018
       end: Dec 2019
       responsibilities:
-        - Define, deploy, administer and maintain cloud infrastructure as code with Terraform
-        - Implement zero-downtime deployments for networking infrastructure to eliminate service disruption
-        - Build and administer nine Kubernetes clusters (EKS) and cluster-critical software
-
-    - designation: Software Developer - Hadoop Platform
-      start: May 2017
-      end: Jun 2018
-      responsiblities:
-        - Automated Hadoop cluster upgrades with Ansible, reducing total upgrade time from two days to 30 minutes
-        - Coached developers through debugging distributed applications and improving performance
-        - Developed quality-of-life improvements to make the platform easier to use for consumers
+        - |
+          Designed and implemented the infrastructure as code best practices and tooling for internal teams building infrastructure
+          in AWS.
+        - |
+          Led a team of other engineers to build and maintain a cloud-based development and hosting platform for business 
+          critical software.
+        - | 
+          Guided engineering teams working with the platform to ensure they were building high-quality, resilient, scalable and 
+          secure solutions.
+        - |
+          Administered nine multi-tenant kubernetes clusters, including automation, backups, disaster recovery and quality-of-life enhancements.
 
     - designation: Software Developer - Enterprise Applications
       start: May 2015
