@@ -42,3 +42,7 @@ badges:
     name: Golang
     percentage: 85
     color: '#007D9C'
+  - type: soft-skill-indicator
+    name: Linux
+    color: green
+    percentage: 75
