@@ -28,7 +28,7 @@ params:
       enable: true
 
     notes:
-      enable: true
+      enable: false
   
   background: 'images/background.jpg'
   topNavbar:
