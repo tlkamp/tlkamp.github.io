@@ -47,6 +47,10 @@ badges:
     color: '#4584b6'
     name: Python
   - type: soft-skill-indicator
+    name: Kubernetes
+    percentage: 90
+    color: '#123786'
+  - type: soft-skill-indicator
     name: Linux
     color: '#E95420'
     percentage: 75
