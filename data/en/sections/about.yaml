@@ -43,6 +43,10 @@ badges:
     percentage: 85
     color: '#007D9C'
   - type: soft-skill-indicator
+    percentage: 85
+    color: '#4584b6'
+    name: Python
+  - type: soft-skill-indicator
     name: Linux
     color: green
     percentage: 75
