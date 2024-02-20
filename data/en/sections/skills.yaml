@@ -19,17 +19,19 @@ skills:
     logo: 'images/sections/skills/cloud.png'
 
   - name: Linux
-    summary: Linux is my main operating system and I have been using it for production environments throughout my career.
+    summary: Linux is my daily-use operating system. I have been using it for production environments throughout my career.
     logo: 'images/sections/skills/linux.png'
 
   - name: Git
-    summary: I have used Git daily as my primary source control option since 2016. I am experienced with GitHub and GitLab.
+    summary: |
+      I have used Git daily as my primary source control option since 2016. I am experienced with GitHub and GitLab, 
+      as well as both platforms' CI tooling.
     logo: 'images/sections/skills/git.png'
 
   - name: Terraform
     logo: 'images/sections/skills/terraform.png'
     summary: |
-      I have worked with Terraform daily since 2018. I have written Terraform providers, production infrastructure as code, and teach courses on 
-      Terraform development.
+      I have worked with Terraform daily since 2018. I have written Terraform providers and modules, production infrastructure as code, 
+      and teach courses on Terraform development.
 
       I chair the Terraform Language Committee at Splunk, where I lead a team of other engineers through writing and maintaining the company style guide.
