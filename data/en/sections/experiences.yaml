@@ -12,8 +12,11 @@ experiences:
       url: "https://www.splunk.com"
       location: Remote - AZ
     positions:
+    - designation: Principal Software Engineer
+      start: Sept 2024
     - designation: Senior Software Engineer
       start: Apr 2021
+      end: Sept 2024
       responsibilities:
         - | 
           Define, build and maintain customer infrastructure across AWS and GCP with Terraform for the Splunk
